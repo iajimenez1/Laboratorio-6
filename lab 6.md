@@ -260,6 +260,8 @@ Se obtienen la máxima transferencia de potencia cuando la RL es de 1000 Ω.
 
 **5.-VIDEO**
 
+https://www.youtube.com/watch?v=JSrX4wc32k8
+
 **6.-CONCLUSIONES**
 
 Ya culminado el análisis podemos concluir que el teorema de máxima transferencia de potencia, se deriva del teorema de Tevenin y el de Norton, con un poco de cálculo elemental. Por lo tanto, se estable una fuente que suministra una máxima potencia a la resistencia de carga (RL) cuando es igual a la resistencia Thevenin (RTH). Por lo tanto, se puede observar la máxima transferencia de potencia se da cuando la carga toma una resistencia igual a la resistencia Thevenin o Norton.
