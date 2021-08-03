@@ -27,9 +27,17 @@ Ing. Darwin Alulema
 
 General
 
+Examinar e investigar el comportamiento del teorema de Máxima Transferencia de Potencia en los circuitos, así se podrá aplicar en la resolución de ejercicios.
+
 Específicos
 
+ Definir la condición necesaria para hallar la Máxima Transferencia de Potencia de un circuito eléctrico DC.
+
+Identificar los fundamentos básicos de este teorema.
+
 **2.-MARCO TEÓRICO**
+
+![Diagrama](https://user-images.githubusercontent.com/75336529/127953427-cc73e6f6-fbc8-49eb-918c-f4fdddad4f20.jpeg)
 
 **3.-EXPLICACIÓN DEL PROCEDIMIENTO**
 
@@ -254,5 +262,10 @@ Se obtienen la máxima transferencia de potencia cuando la RL es de 1000 Ω.
 
 **6.-CONCLUSIONES**
 
+Ya culminado el análisis podemos concluir que el teorema de máxima transferencia de potencia, se deriva del teorema de Tevenin y el de Norton, con un poco de cálculo elemental. Por lo tanto, se estable una fuente que suministra una máxima potencia a la resistencia de carga (RL) cuando es igual a la resistencia Thevenin (RTH). Por lo tanto, se puede observar la máxima transferencia de potencia se da cuando la carga toma una resistencia igual a la resistencia Thevenin o Norton.
+
 **7.-BIBLIOGRAFIA**
  
+ A. (2019a, octubre 26). TEOREMA DE TRANSEFERNCIA DE POTENCIA MAXIMA. La fisica y quimica. https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+ 
+ MÃ¡xima transferencia de potencia. (2018b). UNIVERSIDAD MIGUEL HERNANDEZ. https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.htm
